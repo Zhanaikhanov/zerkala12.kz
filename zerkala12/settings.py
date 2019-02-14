@@ -25,7 +25,7 @@ SECRET_KEY = '6&ypfsk#!m+$^8zl0s%3&sm*&ugb(oo9x=gb)_^atrdx6!1-ic'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['www.zerkala12.kz','zerkala12.kz','185.146.3.90']
 
 
 # Application definition
