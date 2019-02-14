@@ -15,9 +15,8 @@ import sys
 
 from django.core.wsgi import get_wsgi_application
 
-sys.path.append('/home/zerkala12.kz') 
-# adjust the Python version in the line below as needed 
-sys.path.append('/home/envs/zerkala12.kz/lib/python3.6/site-packages') 
+sys.path.append('/root/zerkala12.kz/zerkala12.kz')
+sys.path.append('/root/zerkala12.kz/zerkala12.kz/zerkala')
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'zerkala12.settings')
 
